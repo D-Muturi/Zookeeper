@@ -1,0 +1,5 @@
+print(10 + 10)
+print(100 - 10)
+print(10 * 10)  
+print(77 / 10)
+print(77 // 10)

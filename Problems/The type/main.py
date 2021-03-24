@@ -1,0 +1,1 @@
+print(*[type(i) for i in ("int", 394, 2.71)], sep='\n')
